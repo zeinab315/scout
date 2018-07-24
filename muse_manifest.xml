@@ -1,0 +1,120 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1525734150033">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_library.css" crc="4236018756" ref="2:library:1"/>
+    <file name="master_a-master.css" crc="529794051" ref="syria:media:al-suwayda:aleppo:login:rif-dimashq:2:hamah:index:explor:quneitra:library:homs:about:daraa:idlib:lattakia:damascus:1:hasaka:al-raqqah:tartuse:shop:dayr-al-zawr"/>
+    <file name="syria.css" crc="303417657" ref="syria"/>
+    <file name="media.css" crc="351988158" ref="media"/>
+    <file name="al-suwayda.css" crc="303417657" ref="al-suwayda"/>
+    <file name="aleppo.css" crc="303417657" ref="aleppo"/>
+    <file name="login.css" crc="3973610531" ref="login"/>
+    <file name="rif-dimashq.css" crc="303417657" ref="rif-dimashq"/>
+    <file name="2.css" crc="4266946290" ref="2"/>
+    <file name="hamah.css" crc="303417657" ref="hamah"/>
+    <file name="index.css" crc="3968416464" ref="index"/>
+    <file name="explor.css" crc="27458102" ref="explor"/>
+    <file name="quneitra.css" crc="303417657" ref="quneitra"/>
+    <file name="library.css" crc="4273322637" ref="library"/>
+    <file name="homs.css" crc="303417657" ref="homs"/>
+    <file name="about.css" crc="4164341212" ref="about"/>
+    <file name="daraa.css" crc="303417657" ref="daraa"/>
+    <file name="idlib.css" crc="303417657" ref="idlib"/>
+    <file name="lattakia.css" crc="303417657" ref="lattakia"/>
+    <file name="damascus.css" crc="303417657" ref="damascus"/>
+    <file name="1.css" crc="4015616294" ref="1"/>
+    <file name="hasaka.css" crc="303417657" ref="hasaka"/>
+    <file name="al-raqqah.css" crc="303417657" ref="al-raqqah"/>
+    <file name="tartuse.css" crc="303417657" ref="tartuse"/>
+    <file name="shop.css" crc="303417657" ref="shop"/>
+    <file name="dayr-al-zawr.css" crc="303417657" ref="dayr-al-zawr"/>
+  </folder>
+  <folder name="assets">
+    <file name="الحسكة.png" crc="55274506" seo="true" mt="1524574817000"/>
+    <file name="طرطوس.png" crc="4148400607" seo="true" mt="1524575002000"/>
+    <file name="ريف-دمشق.png" crc="28673942" seo="true" mt="1525114678000"/>
+    <file name="دير-الزور.png" crc="300058366" seo="true" mt="1524575105000"/>
+    <file name="اللاذقية.png" crc="423596813" seo="true" mt="1524578229000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="museutils.js" crc="163421577" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="museconfig.js" crc="168988563" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="webpro.js" crc="3848665353" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u3556.php" crc="8102749" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="require.js" crc="244322403" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3804152488" ref="index"/>
+    <file name="scouts_of_syria_2012.png" crc="4152523897" seo="true" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u262-4.png" crc="3961622877" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u258-4.png" crc="24698132" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u271-4.png" crc="300531360" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u417-4.png" crc="3830917565" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u647-4.png" crc="4154565559" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u653-4.png" crc="3902968747" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="facebook1.png" crc="397358542" seo="true" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="twitter.png" crc="366981158" seo="true" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="instgram.png" crc="377610947" seo="true" ref="index:syria:tartuse:damascus:daraa:quneitra:rif-dimashq:al-suwayda:dayr-al-zawr:hasaka:idlib:homs:hamah:aleppo:al-raqqah:lattakia:about:explor:login:media:shop:1:library:2"/>
+    <file name="u4045-4.png" crc="328256606" ref="1:library:2"/>
+    <file name="u4085-4.png" crc="427317777" ref="1:library:2"/>
+    <file name="u4088-4.png" crc="128599529" ref="1:library:2"/>
+    <file name="u4054-4.png" crc="72261565" ref="1:library:2"/>
+    <file name="u4051-4.png" crc="236345402" ref="1:library:2"/>
+    <file name="u4048-4.png" crc="4148869768" ref="1:library:2"/>
+    <file name="الدليل البيداغوجي للكشاف الإيكولوجي-crop-u4320.jpg" crc="3943316136" ref="1"/>
+    <file name="u4164-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="اللورد بادن باول-crop-u4488.jpg" crc="4071858967" ref="1"/>
+    <file name="u4186-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="المتمر الكشفي العالمي-crop-u4330.jpg" crc="3971522451" ref="1"/>
+    <file name="u4168-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="أنشطة التنمية العالمية-crop-u4508.jpg" crc="67397327" ref="1"/>
+    <file name="u4188-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="المخيم الكشفي العالم 21-crop-u4340.jpg" crc="220037639" ref="1"/>
+    <file name="u4174-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="دليل الفنون والمهارات الكشفية-crop-u4380.jpg" crc="383244814" ref="1"/>
+    <file name="u4190-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="بدن باول الجندي والكشاف-crop-u4350.jpg" crc="226177641" ref="1"/>
+    <file name="u4180-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="الندوة العربية الثانية لرؤوساء السداسيات-crop-u4518.jpg" crc="4041756512" ref="1"/>
+    <file name="u4192-4.png" crc="139549560" ref="1:library:2"/>
+    <file name="شارة التجدي الخاصة بالمياه-crop-u4400.jpg" crc="426011386" ref="library"/>
+    <file name="الدليل التربوي لقادة الجوالة.jpg" crc="268444787" seo="true" ref="library"/>
+    <file name="شارة التحدي (القضاء على الجوع(-crop-u4410.jpg" crc="472406072" ref="library"/>
+    <file name="الدليل التربوي لقادة الأشبال-crop-u4459.jpg" crc="3926314478" ref="library"/>
+    <file name="شارة التحدي الخاصة بالتنوع البيولوجي-crop-u4420.jpg" crc="3981439336" ref="library"/>
+    <file name="دليل الشبل العربي-crop-u4478.jpg" crc="339734280" ref="library"/>
+    <file name="دليل الجوال العربي-crop-u4449.jpg" crc="179261178" ref="library"/>
+    <file name="فنون الحبل-crop-u4498.jpg" crc="173116043" ref="library"/>
+  </folder>
+  <file name="index.html" crc="254007586" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="syria.html" crc="3835107902" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="tartuse.html" crc="3982840999" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="damascus.html" crc="3915837081" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="daraa.html" crc="4154405839" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="quneitra.html" crc="3836343023" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="rif-dimashq.html" crc="416439330" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="al-suwayda.html" crc="3901824613" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="dayr-al-zawr.html" crc="475373226" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="hasaka.html" crc="42401334" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="idlib.html" crc="3844117316" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="homs.html" crc="11854922" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="hamah.html" crc="97155545" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="aleppo.html" crc="4022268769" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="al-raqqah.html" crc="4041646247" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="lattakia.html" crc="4255708375" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="about.html" crc="500498745" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="explor.html" crc="3918456780" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="login.html" crc="11857544" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="media.html" crc="3906847422" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="shop.html" crc="4085786382" seo="true" mt="1525732279734" redirect="true"/>
+  <file name="1.html" crc="521796558" seo="true" mt="1525733909493" redirect="true"/>
+  <file name="library.html" crc="3823173203" seo="true" mt="1525733909493" redirect="true"/>
+  <file name="2.html" crc="454714897" seo="true" mt="1525733909493" redirect="true"/>
+</manifest>
